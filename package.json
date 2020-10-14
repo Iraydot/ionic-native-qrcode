@@ -1,0 +1,21 @@
+{
+  "description": "Ionic Native - Native plugins for ionic apps",
+  "keywords": [],
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "author": "iraydot",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iraydot/ionic-native-qrcode"
+  },
+  "name": "ionic-native-qrcode",
+  "dependencies": {
+    "@types/cordova": "latest"
+  },
+  "peerDependencies": {
+    "rxjs": "^5.5.0 || ^6.5.0",
+    "@ionic-native/core": "^5.1.0"
+  },
+  "version": "0.0.1"
+}
